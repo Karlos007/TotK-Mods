@@ -1,6 +1,10 @@
 # The Legend of Zelda: Tears of the Kingdom | BGYML Mods
 The Legend of Zelda: Tears of the Kingdom | BGYML Mods
 
+https://gamebanana.com/mods/443138 100% Critical Cooking
+https://gamebanana.com/mods/443139 Easy Horse Upgrade
+
+
 1 - CookingTable.game__cooking__Table.bgyml = Cooking is always critical, and more powerfull.
 2 - Default.game__HorseUpgradeRequirementTable.bgyml = Upgrading horse stats only requires Apples instead of food dishes.
 3 - Default.game__horse__HorseGlobalParam.bgyml = Changes horse speed of slower horses to the faster ones.
