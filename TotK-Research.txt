@@ -1,0 +1,261 @@
+
+=== Paraglider Fabric ===
+0001388C - 7ff848d1 - Default Fabric
+0000D59C - b65bc9d7 - Goron Fabric
+000259D4 - 41929f49 - Zora Fabric
+0000C65C - 084da01f - Gerudo Fabric
+00026A74 - 31a2d1cc - Royal Emblem Fabric
+00016924 - 865f713d - Zonai Fabric
+0001603C - 30669b55 - Sheikah Fabric
+00004A84 - 022aef11 - Yiga Fabric
+00000EA4 - 112734b9 - Monster-Control-Crew Fabric
+0001E49C - dbc821f2 - Zonai Survey Team Fabric
+00017384 - 1ecc8c93 - God Horse Fabric
+0001FD3C - 405203b9 - Lurelin Fabric
+0001D934 - 7c38e018 - Lucky Clover Gazette Fabric
+0001F814 - 0636a9e7 - Hudson Construction Fabric
+0000E564 - 09865592 - Koltin Fabric
+0001B144 - 57129d72 - Korok Fabric
+00019EDC - f4035866 - Grizzlemaw-Bear Fabric
+00021B5C - c80d0bf1 - Rotver Fabric
+00024FB4 - 96427113 - Cece Fabric
+0000A2EC - 8ef713e8 - Aerocuda Fabric
+00005394 - 92754bbd - Eldin-Ostrich Fabric
+00024EF4 - 94d2472d - Cucco Fabric
+0001F174 - e6cacf83 - Horse Fabric
+00020674 - 85a4e8e3 - Chuchu Fabric
+0001017C - ca1847dd - Lynel Fabric
+00005FB4 - 8c007dbc - Griok Fabric
+00027D4C - a2aec992 - Stalnox Fabric
+00003E0C - 7c552e01 - Tunic of Memories Fabric
+00026A94 - ca76a631 - Hylian-Hood Fabric
+000020CC - d9c206b1 - Hyrule-Princess Fabric
+00015DEC - 6443f768 - Goron-Champion Fabric
+0001CA1C - 397217b2 - Rito-Champion Fabric
+00013C74 - 6fb24dcc - Zora-Champion Fabric
+0001CE6C - 38267d74 - Gerudo-Champion Fabric
+00005004 - ca2baf8b - Ancient-Sheikah Fabric
+0001CC44 - 500ce8e9 - Bokoblin Fabric
+000224BC - 861db450 - Demon King Fabric
+00018A1C - 8dbea34c - King of Red Lions Fabric
+00004A1C - d552e642 - Sheik's Fabric
+0001C79C - 6199467d - Mirror of Twilight Fabric
+00025BEC - 6625f898 - Princess of Twilight Fabric
+000089DC - 63452b97 - Lon Lon Ranch Fabric
+0002781C - 53e2da50 - Majora’s Mask Fabric
+0001C95C - ee3f78e3 - Bygone-Royal Fabric
+00016A64 - f2d50ecf - Sword-Spirit Fabric
+00025DE4 - a4bf8025 - Pixel Fabric
+0001C384 - 0f1e166d - Egg Fabric
+0001F5FC - c9ab8463 - Goddess Fabric
+00027F54 - 21170251 - Champion's Leathers Fabric
+0000129C - eaae73a3 - Princess Zelda Fabric
+00020BA4 - a5ecfeec - Gerudo-King Fabric
+0001CE54 - 93e7260f - Nostalgic Fabric
+00010ACC - 6688319b - Addison's Fabric
+
+
+=== Autobuild Schematics ===
+0000114C - ee3db7d1 - Autobuild Schematics
+00002864 - 2abb2df0 - Autobuild Schematics
+00003CC4 - a07798a6 - Autobuild Schematics
+00003D74 - 6c8fca57 - Autobuild Schematics
+00004C5C - 0cbea150 - Autobuild Schematics
+000055FC - 499afa5b - Autobuild Schematics
+000059F4 - 3f9f61fd - Autobuild Schematics
+000072EC - 7708c653 - Autobuild Schematics
+000076D4 - 29bcade1 - Autobuild Schematics
+0000881C - 260ad4d3 - Autobuild Schematics
+00008E74 - 8476f277 - Autobuild Schematics
+00008F5C - 0520dea7 - Autobuild Schematics
+00009714 - 542b78f1 - Autobuild Schematics
+0000AE94 - d3f712cc - Autobuild Schematics
+0000CDF4 - 8fe4140a - Autobuild Schematics
+0000D28C - 97c52512 - Autobuild Schematics
+0000DCEC - d7ac3fc8 - Autobuild Schematics
+0000DFD4 - a7bccf88 - Autobuild Schematics
+000100C4 - be350fdb - Autobuild Schematics
+00011194 - 4ce68be6 - Autobuild Schematics
+00011B8C - 047dd1a3 - Autobuild Schematics
+00014634 - 8ebfc267 - Autobuild Schematics
+00014A94 - af8870c6 - Autobuild Schematics
+0001557C - 5109695f - Autobuild Schematics
+000168E4 - aaacf14d - Autobuild Schematics
+000170B4 - 6206da4f - Autobuild Schematics
+0001797C - abc30ab3 - Autobuild Schematics
+00017F6C - eee1492c - Autobuild Schematics
+000183D4 - 9f4ba799 - Autobuild Schematics
+000186C4 - a8707e8a - Autobuild Schematics
+0001B52C - 41b07b33 - Autobuild Schematics
+0001BD14 - b3752c42 - Autobuild Schematics
+0001D1D4 - 3385b6c6 - Autobuild Schematics
+0001D754 - 127a75c9 - Autobuild Schematics
+0001DA54 - 345e7150 - Autobuild Schematics
+0001E184 - b625e1fc - Autobuild Schematics
+0001E54C - 5fadc4e3 - Autobuild Schematics
+0001FEC4 - 97e22bf9 - Autobuild Schematics
+00020634 - 7f86e965 - Autobuild Schematics
+000219CC - 11f75220 - Autobuild Schematics
+00025334 - fba73b41 - Autobuild Schematics
+0002667C - a7ce2e78 - Autobuild Schematics
+000267A4 - 45f95172 - Autobuild Schematics
+000268F4 - 14fd96aa - Autobuild Schematics
+00026E8C - 0cddddbf - Autobuild Schematics
+000274EC - 732c5985 - Autobuild Schematics
+
+
+=== Event Flags ===
+0000942C - b0e23924 - Tablet 1/2 (-) Button
+0001176C - 82b7efeb - Tablet 2/2 Album
+0001CE14 - 8816dc32 - Ultrahand 1/2 Ultrahand unlocked
+0000BA1C - 5dbcb47b - Ultrahand 2/2 Amiibo unlocked
+00001F2C - a2e3b2aa - Fuse 1/2 Fuse unlocked
+00027F3C - bf30c4e2 - Fuse 2/2 Battery unlocked
+00012434 - fcd13c80 - Ascend unlocked
+0001B44C - 21eedede - Recall unlocked
+0001ABB4 - 4b392ebf - Teleport unlocked
+00013AF4 - 511f940c - Hyrule unlocked
+0000D6EC - 51330f2b - Autobuild ability unlocked
+0002175C - cff9dad5 - Autobuild menu unlocked
+000140EC - b8a1847f - Camera unlocked
+00006E74 - 891f8710 - Hyrule Compendium unlocked
+00008BA4 - d29e6024 - Hero Path unlocked
+
+0002A8D4 - 2cda0c19 - Demon Statue - Containers
+0002BBDC - a77921d7 - Rupees
+00034FA4 - f9212c74 - Stamina
+000357B4 - f6e7eacd - Equipped ability
+
+Link X 00053324
+Link Y 00053328
+Link Z 0005332C
+
+=== Travel Medallion ===
+1 X 0x00053A08
+1 Y 0x00053A0C
+1 Z 0x00053A10
+ 
+2 X 0x00053A14
+2 Y 0x00053A18
+2 Z 0x00053A1C
+ 
+3 X 0x00053A20
+3 Y 0x00053A24
+3 Z 0x00053A28
+
+
+=== Coordinates ===
+Prologue starting pos
+65,3255081176758
+35,2693901062012
+-192,535919189453
+A9 A6 82 42 DB 13 0D 42 32 89 40 C3
+
+Ukouh Shrine (Ultrahand)
+275.1997681
+1565.827026
+911.4987183
+CE D0 89 43 77 BA C3 44 3E 80 63 44
+
+In-isa Shrine (Fuse)
+23.34442329
+1514.295532
+1504.307617
+61 C1 BA 41 75 49 BD 44 D8 09 BC 44
+
+Gutanbac Shrine (Ascend)
+708.8917847
+1690.195312
+1384.600098
+13 39 31 44 40 46 D3 44 34 13 AD 44
+
+Nachoyah Shrine 
+390.3617249
+2404.452637
+1662.573242
+4D 2E C3 43 3E 47 16 45 58 D2 CF 44
+
+Autobuild (Depths)
+-805,746520996094
+-415,189758300781
+1926,31958007813
+C7 6F 49 C4 4A 98 CF C3 3A CA F0 44
+
+Yiga Blademaster Station
+-2476,43408203125
+243,040466308594
+1796,29443359375
+F2 C6 1A C5 5C 0A 73 43 6C 89 E0 44
+
+Yiga Clan Hideout
+-2476,43408203125
+243,040466308594
+1796,29443359375
+F2 C6 1A C5 5C 0A 73 43 6C 89 E0 44
+
+Final Battle 001
+-249.2728882
+-1706.867432
+-808.4770508
+DC 45 79 C3 C2 5B D5 C4 88 1E 4A C4
+
+Final Battle 002
+-250
+-2447
+975
+
+Mayanas Shrine (Skydive Trial - Glide Mask)
+Wiki 4613 -0947 1804
+4544,87890625
+1226,62268066406
+845,93798828125
+08 07 8E 45 ED 53 99 44 08 7C 53 44
+
+Taunhiy Shrine (Skydive Trial - Glide Shirt)
+Wiki -2402 0825 0629
+-2400,92553710938
+720,997680664062
+-824,983703613281
+CF 0E 16 C5 DA 3F 34 44 F5 3E 4E C4
+ 
+Simosiwak Shrine (Skydive Trial - Glide Tights)
+Wiki 0162 1972 0773
+163,071441650391
+864,604797363281
+-1972,3876953125
+4A 12 23 43 B5 26 58 44 68 8C F6 C4
+
+-----------------------------------
+Device Dispenser RBox_Field_D_02.pack.zs
+Time Bomb, Small Wheel, Light, Rocket
+-1213 -1585 1007
+-----------------------------------
+
+-----------------------------------
+Autobuild v1.1.0
+Start at 000DB6DC
+Size 6692 / 0x1A24
+Repeat 30 times / 30 slots including 8 favorites
+-----------------------------------
+************ Spoilers ************
+
+00010194 - 13a6840a - Tureli Enabled
+00026BF4 - 291bf47e - Sidon Enabled
+000175DC - 94d16788 - Yunobo Enabled
+00007D1C - b82e6e62 - Riju Enabled
+0002454C - 4639413e - Mineru Golem Enabled
+
+0002729C - 90fc8be3 - Tureli Unlocked
+00003AFC - 0993def3 - Sidon Unlocked
+00008BFC - c4ce50b4 - Yunobo Unlocked
+00007D14 - 4b598322 - Riju Unlocked
+0002378C - b6035fae - Mineru Golem Unlocked
+
+**********************************
+-----------------------------------
+Save editing Tools
+-----------------------------------
+https://www.marcrobledo.com/savegame-editors/zelda-totk/
+-----------------------------------
+https://gbatemp.net/threads/totk-savegame-editor.633222/
+-----------------------------------
