@@ -54,6 +54,8 @@
 0001CE54 - 93e7260f - Nostalgic Fabric
 00010ACC - 6688319b - Addison's Fabric
 
+0003716C - 01d063db - Current design
+
 
 === Autobuild Schematics ===
 0000114C - ee3db7d1 - Autobuild Schematics
@@ -126,9 +128,46 @@
 00034FA4 - f9212c74 - Stamina
 000357B4 - f6e7eacd - Equipped ability
 
-Link X 00053324
+0000FC7C - 35d3afbe - Bloodmoon
+
+
+=== Recipes ===
+
+
+00023304 - 8bf5379f - Recipe #186
+
+
+
+
+
+
+
+
+
+
+Colored Pins Coords (v1.0.0)
+00053A20 1
+00053A2C 2
+00053A38 3
+00053A44 4
+00053A50 5
+00053A5C 6
+-----------------------------------
+
+Link X 00053324 (v1.0.0 000532EC)
 Link Y 00053328
 Link Z 0005332C
+
+000532E8 - Untamed Horse Pos (v1.0.0 000532B0)
+000532EC - Untamed Horse Pos
+000532F0 - Untamed Horse Pos
+
+00053E40 - Untamed Horse ID
+
+
+0008A128 - Horse ID 1
+0008A168 - Horse ID 2
+
 
 === Travel Medallion ===
 1 X 0x00053A08
@@ -204,22 +243,34 @@ Final Battle 002
 -2447
 975
 
-Mayanas Shrine (Skydive Trial - Glide Mask)
-Wiki 4613 -0947 1804
++--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
+| Dragon Tear 1 (Wiki -1413 0966 0125) | Dragon Tear 2 (Wiki -2551 1889 0320) | Dragon Tear 3 (Wiki 1828 0738 0090) | Dragon Tear 4 (Wiki 0695 -1309 0054) | Dragon Tear 5 (Wiki -3178 -1700 0420) | Dragon Tear 6 (Wiki -3096 -0077 0212) | Dragon Tear 7 (Wiki 3326 -3566 0006) | Dragon Tear 8 (Wiki -1864 3622 0238) | Dragon Tear 9 (Wiki 4468 -0305 0076) | Dragon Tear 10 (Wiki -0649 -2683 0069) | Dragon Tear 11 (Wiki 0892 2952 0363) | Dragon Tear 12 (Wiki 4535 2144 0002) |
++--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
+| -1412,607421875                      | -2551,31958007813                    | 1828,32702636719                    | 694,6279296875                       | -3178,365234375                       | -3096,33422851562                     | 3325,72778320313                     | -1863,685546875                      | 4467,701171875                       | -649,3267822                           | 892,0291748                          | 4534,680176                          |
+| 229,228912353516                     | 425,230377197266                     | 195,521240234375                    | 159,176330566406                     | 524,933349609375                      | 317,150573730469                      | 110,716239929199                     | 342,735504150391                     | 180,947174072266                     | 174,3910828                            | 468,5645142                          | 106,6209488                          |
+| -966,107482910156                    | -1885,54016113281                    | -734,593566894531                   | 1312,22192382812                     | 1702,68713378906                      | 80,0556945800781                      | 3569,4501953125                      | -3618,78979492188                    | 307,989807128906                     | 2685,972412                            | -2948,690186                         | -2141,090088                         |
+| 70 93 B0 C4 9A 3A 65 43 E1 86 71 C4  | 1D 75 1F C5 7D 9D D4 43 49 B1 EB C4  | 77 8A E4 44 70 85 43 43 FD A5 37 C4 | 30 A8 2D 44 24 2D 1F 43 1A 07 A4 44  | D8 A5 46 C5 BC 3B 03 44 FD D5 D4 44   | E9 85 41 C5 69 4F 9E 43 E6 B8 9A 42   | A5 DB 4F 45 B7 6E DD 42 34 17 5F 45  | F0 F5 E8 C4 25 5E AB 43 A3 2C 62 C5  | 9C 9D 8B 45 7A F2 34 43 B2 FE 99 43  | EA 54 22 C4 1E 64 2E 43 8F DF 27 45    | DE 01 5F 44 42 48 EA 43 0B 4B 38 C5  | 71 B5 8D 45 ED 3D D5 42 71 D1 05 C5  |
++--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
+
+Ride The Giant Horse
+-692,632873535156
+278,050628662109
+3396,01904296875
+81 28 2D C4 7B 06 8B 43 4E 40 54 45
+
+Mayanas Shrine (Skydive Trial - Glide Mask) Wiki 4613 -0947 1804
 4544,87890625
 1226,62268066406
 845,93798828125
 08 07 8E 45 ED 53 99 44 08 7C 53 44
 
-Taunhiy Shrine (Skydive Trial - Glide Shirt)
-Wiki -2402 0825 0629
+Taunhiy Shrine (Skydive Trial - Glide Shirt) Wiki -2402 0825 0629
 -2400,92553710938
 720,997680664062
 -824,983703613281
 CF 0E 16 C5 DA 3F 34 44 F5 3E 4E C4
  
-Simosiwak Shrine (Skydive Trial - Glide Tights)
-Wiki 0162 1972 0773
+Simosiwak Shrine (Skydive Trial - Glide Tights) Wiki 0162 1972 0773
 163,071441650391
 864,604797363281
 -1972,3876953125
@@ -232,10 +283,1186 @@ Time Bomb, Small Wheel, Light, Rocket
 -----------------------------------
 
 -----------------------------------
-Autobuild v1.1.0
-Start at 000DB6DC
+Autobuild v1.1.0	v1.0.0
+Start at 000DB6DC	D7A5C
 Size 6692 / 0x1A24
 Repeat 30 times / 30 slots including 8 favorites
+-----------------------------------
+Koroks
+(8729BFA5 not carried / 62965740 carried)
+
+
+
+Unused 00000F04 - 3DB6D2E8
+Unused 00001C4C - 41740174
+Unused 0000231C - 1E9AD8F5
+Unused 000026BC - 033D538B
+Unused 00002B9C - 82ABF871
+Unused 00002DAC - 2E5492D2
+Unused 00003424 - 60A24C4A
+Unused 00003A4C - C461DBDA
+Unused 000044AC - F76F699F
+Unused 00004CEC - 2E4E14A9
+Unused 000057D4 - B220EDFD
+Unused 00005D54 - D14B49B7
+Unused 000061C4 - C0F3AE77
+Unused 00006924 - A67C7BD9
+Unused 00007334 - 39FDAD2B
+Unused 0000747C - 03D61597
+Unused 000074B4 - B2AD3D63
+Unused 00007E7C - 7A97BD3F
+Unused 000084FC - 7945C478
+Unused 0000893C - 94963F6A
+Unused 00008CAC - B2FCDD1C
+Unused 00009D74 - 255E9E0B
+Unused 0000A0C4 - 782803FC
+Unused 0000BE74 - 2A4A9087
+Unused 0000CA2C - 5C0C0397
+Unused 0000E7E4 - C7364679
+Unused 0000E95C - 787B9B7B
+Unused 0000EAAC - 84BC0302
+Unused 0000EC94 - 2C06F0CF
+Unused 0000EDA4 - 7C0B1B2C
+Unused 0000F594 - 867664C9
+Unused 0000FB3C - 4485CDB4
+Unused 00010FE4 - D97D25CE
+Unused 0001137C - 0263A545
+Unused 00011594 - 0071D101
+Unused 000121D4 - 61D3E577
+Unused 000122E4 - 73D39C67
+Unused 0001244C - 3405C87F
+Unused 00012834 - 121EAFEF
+Unused 00012F0C - 578A8EF4
+Unused 00013814 - 980FBD20
+Unused 0001398C - AC104ABD
+Unused 00014C7C - 32CAAF1F
+Unused 00015B54 - BC275818
+Unused 00015BCC - B2AEC813
+Unused 00015E2C - E087FDE0
+Unused 0001640C - 4D124876
+Unused 00016564 - D7CFE9E5
+Unused 0001691C - 46E6AAF5
+Unused 00016AA4 - 75EAB4B8
+Unused 0001875C - DC28665B
+Unused 000188A4 - C18C0172
+Unused 00018A7C - 230F12AC
+Unused 00019E3C - 729D2922
+Unused 0001A594 - 45196F2E
+Unused 0001AACC - 5334D66E
+Unused 0001AC24 - C97699E0
+Unused 0001ACCC - 0DE076F7
+Unused 0001B064 - 5E12F548
+Unused 0001B1FC - A5A77650
+Unused 0001B27C - 021434CB
+Unused 0001B49C - 2A8F52A6
+Unused 0001CA9C - 314C7734
+Unused 0001DB64 - 074B3168
+Unused 0001DD64 - E83B37F3
+Unused 0001E19C - D2E9FFC5
+Unused 0001E74C - 8983A436
+Unused 0001EDD4 - 771AE320
+Unused 0001EEFC - B973E0DD
+Unused 0001F184 - BEF91F2F
+Unused 0001F914 - 7D9FE7BA
+Unused 00020354 - ECCE6E92
+Unused 0002172C - AA16340B
+Unused 00021DFC - CDAE8C28
+Unused 00022FCC - DCA7CD59
+Unused 00023434 - 5E9ACDEC
+Unused 0002385C - CC807B7E
+Unused 00023C74 - 534013B9
+Unused 00023D54 - AED137AB
+Unused 0002417C - 0E9B3849
+Unused 000263D0 - CE416BDA
+Unused 000276B4 - 55ABFA03
+Unused 00026FCC - D13B833D
+
+
+0001F444 - 5C09B4C1 Korok - Room of Awakening 0343 -1756 2282
+
+C53B6047, Carried 1/100 (x2)
+5B313433, Carried 2/100 (x2)
+21B5E04C, Carried 3/100 (x2)
+5EDC5DD8, Carried 4/100 (x2)
+79EE2B64, Carried 5/100 (x2)
+2F641302, Carried 6/100 (x2)
+9B238D13, Carried 7/100 (x2)
+5C15AFD9, Carried 8/100 (x2)
+79233E89, Carried 9/100 (x2)
+D665FA2D, Carried 10/100 (x2)
+A6C32A38, Carried 11/100 (x2)
+6DCB0444, Carried 12/100 (x2)
+4F678B19, Carried 13/100 (x2)
+AB9D58A9, Carried 14/100 (x2)
+3CB982AA, Carried 15/100 (x2)
+94B7D100, Carried 16/100 (x2)
+D3384F6F, Carried 17/100 (x2)
+75111918, Carried 18/100 (x2)
+24DD7307, Carried 19/100 (x2)
+98A8EA6E, Carried 20/100 (x2)
+8713591B, Carried 21/100 (x2)
+A1CA6BC5, Carried 22/100 (x2)
+E5EF09A4, Carried 23/100 (x2)
+444A9935, Carried 24/100 (x2)
+BD349337, Carried 25/100 (x2)
+1F6F5594, Carried 26/100 (x2)
+36F4DB74, Carried 27/100 (x2)
+FC2BA0F2, Carried 28/100 (x2)
+8486A7ED, Carried 29/100 (x2)
+BEB9D2F1, Carried 30/100 (x2)
+93099B8D, Carried 31/100 (x2)
+09B38C59, Carried 32/100 (x2)
+F7711BC5, Carried 33/100 (x2)
+0FC7D184, Carried 34/100 (x2)
+7484835E, Carried 35/100 (x2)
+A46061B3, Carried 36/100 (x2)
+4E840184, Carried 37/100 (x2)
+83C9A618, Carried 38/100 (x2)
+E81C25DC, Carried 39/100 (x2)
+B9B66C74, Carried 40/100 (x2)
+1A16B03B, Carried 41/100 (x2)
+F94361F0, Carried 42/100 (x2)
+14FA8EE9, Carried 43/100 (x2)
+2D36E2B3, Carried 44/100 (x2)
+EE82F9FA, Carried 45/100 (x2)
+806D03FA, Carried 46/100 (x2)
+7291C3E6, Carried 47/100 (x2)
+12471F7A, Carried 48/100 (x2)
+64400F10, Carried 49/100 (x2)
+2668EBD0, Carried 50/100 (x2)
+D534B437, Carried 51/100 (x2)
+FA6A7E0E, Carried 52/100 (x2)
+8C50A6E6, Carried 53/100 (x2)
+C95E1B19, Carried 54/100 (x2)
+AEE235B1, Carried 55/100 (x2)
+1C896CB6, Carried 56/100 (x2)
+8B3060C3, Carried 57/100 (x2)
+5131EB97, Carried 58/100 (x2)
+F9763D6E, Carried 59/100 (x2)
+8403CD39, Carried 60/100 (x2)
+3813078C, Carried 61/100 (x2)
+EB2E5CDB, Carried 62/100 (x2)
+95456AD9, Carried 63/100 (x2)
+2378F79E, Carried 64/100 (x2)
+F7587343, Carried 65/100 (x2)
+E98BAF17, Carried 66/100 (x2)
+795CE59E, Carried 67/100 (x2)
+26A3F326, Carried 68/100 (x2)
+6900BECE, Carried 69/100 (x2)
+71F5D0FD, Carried 70/100 (x2)
+CE9D0EAE, Carried 71/100 (x2)
+D7892E5F, Carried 72/100 (x2)
+7433E3B6, Carried 73/100 (x2)
+789E98BA, Carried 74/100 (x2)
+83AD37D1, Carried 75/100 (x2)
+320E2F92, Carried 76/100 (x2)
+C68205E3, Carried 77/100 (x2)
+C0647F18, Carried 78/100 (x2)
+603E2B23, Carried 79/100 (x2)
+59B2D344, Carried 80/100 (x2)
+C636740A, Carried 81/100 (x2)
+5546FB7C, Carried 82/100 (x2)
+52CEED49, Carried 83/100 (x2)
+35D7B73A, Carried 84/100 (x2)
+09163939, Carried 85/100 (x2)
+1BB2E064, Carried 86/100 (x2)
+77EEFD81, Carried 87/100 (x2)
+98653D23, Carried 88/100 (x2)
+6DF2BB19, Carried 89/100 (x2)
+34FF575E, Carried 90/100 (x2)
+8A42EA55, Carried 91/100 (x2)
+FC767553, Carried 92/100 (x2)
+D1BAC1A3, Carried 93/100 (x2)
+953B7301, Carried 94/100 (x2)
+5FA3B730, Carried 95/100 (x2)
+DEEA959F, Carried 96/100 (x2)
+1945F1ED, Carried 97/100 (x2)
+1BF36240, Carried 98/100 (x2)
+FBA408C6, Carried 99/100 (x2)
+77FD5FD2, Carried 100/100 (x2)
+66FAE1AA, Discovered 1/800
+096C2AA5, Discovered 2/800
+9243B590, Discovered 3/800
+21E47DD2, Discovered 4/800
+CC577306, Discovered 5/800
+08DD478D, Discovered 6/800
+5989C7BA, Discovered 7/800
+10944B46, Discovered 8/800
+08996C9E, Discovered 9/800
+49826D11, Discovered 10/800
+0BD9F995, Discovered 11/800
+482FCD1D, Discovered 12/800
+EEC59EB6, Discovered 13/800
+A3A973FB, Discovered 14/800
+BF515C41, Discovered 15/800
+F3962161, Discovered 16/800
+DE37DB6B, Discovered 17/800
+F369C400, Discovered 18/800
+551B27FD, Discovered 19/800
+6798CBBE, Discovered 20/800
+004E504F, Discovered 21/800
+50276A77, Discovered 22/800
+C084AD2C, Discovered 23/800
+813FDE56, Discovered 24/800
+0002A21A, Discovered 25/800
+36A6D937, Discovered 26/800
+EB65C526, Discovered 27/800
+60D529B8, Discovered 28/800
+32D95FF0, Discovered 29/800
+7667A2AF, Discovered 30/800
+9FA5D670, Discovered 31/800
+31B855FB, Discovered 32/800
+4E58D512, Discovered 33/800
+225FD744, Discovered 34/800
+5CE131A9, Discovered 35/800
+1B8C8A00, Discovered 36/800
+F88D27E7, Discovered 37/800
+DEB9B841, Discovered 38/800
+2EE56865, Discovered 39/800
+D06EB149, Discovered 40/800
+3CE5677B, Discovered 41/800
+79B3480C, Discovered 42/800
+FDADEB4E, Discovered 43/800
+95BFAB1D, Discovered 44/800
+5ACA2D3F, Discovered 45/800
+A72F3021, Discovered 46/800
+119D3BC1, Discovered 47/800
+FE65EB3C, Discovered 48/800
+D2846A74, Discovered 49/800
+B4CF4681, Discovered 50/800
+7419D23B, Discovered 51/800
+B36BAF13, Discovered 52/800
+A1B1C8E7, Discovered 53/800
+7DFE0C26, Discovered 54/800
+C1781562, Discovered 55/800
+79F9C410, Discovered 56/800
+835B7E1C, Discovered 57/800
+4F212A29, Discovered 58/800
+F8AD2615, Discovered 59/800
+FCD5522C, Discovered 60/800
+6F3CEE24, Discovered 61/800
+7B5245A4, Discovered 62/800
+465ABA38, Discovered 63/800
+47D71D7D, Discovered 64/800
+422C0842, Discovered 65/800
+1B4767B6, Discovered 66/800
+C185CB4A, Discovered 67/800
+3A3B9A81, Discovered 68/800
+710D7DC4, Discovered 69/800
+BFDC6372, Discovered 70/800
+4869ED13, Discovered 71/800
+ED202EBB, Discovered 72/800
+75820145, Discovered 73/800
+22252769, Discovered 74/800
+D4346012, Discovered 75/800
+AE50D28B, Discovered 76/800
+21C73468, Discovered 77/800
+EEEF717D, Discovered 78/800
+D5490716, Discovered 79/800
+AA6F1ED9, Discovered 80/800
+470509F2, Discovered 81/800
+A809268F, Discovered 82/800
+D61FB0A9, Discovered 83/800
+C967E2DE, Discovered 84/800
+21AD1C72, Discovered 85/800
+67ED06D2, Discovered 86/800
+0610F317, Discovered 87/800
+1D645134, Discovered 88/800
+5DBA834A, Discovered 89/800
+423BB6CC, Discovered 90/800
+7DBA397F, Discovered 91/800
+06C31519, Discovered 92/800
+C992F65A, Discovered 93/800
+BDC9F62B, Discovered 94/800
+0E1C2580, Discovered 95/800
+B84D3457, Discovered 96/800
+99DA3209, Discovered 97/800
+E0A5BD71, Discovered 98/800
+49FFCAC6, Discovered 99/800
+AB8CEBF1, Discovered 100/800
+97363EB7, Discovered 101/800
+5E0D6507, Discovered 102/800
+E29EC082, Discovered 103/800
+D2AA5165, Discovered 104/800
+46AC5420, Discovered 105/800
+303EA124, Discovered 106/800
+B246217E, Discovered 107/800
+8E06C360, Discovered 108/800
+01102F1E, Discovered 109/800
+68741CF4, Discovered 110/800
+781656A9, Discovered 111/800
+B34D13BC, Discovered 112/800
+1B0F5626, Discovered 113/800
+3507F731, Discovered 114/800
+61F6493A, Discovered 115/800
+B3D6C02D, Discovered 116/800
+1DF874B5, Discovered 117/800
+D30ECE2C, Discovered 118/800
+AE3F3DF1, Discovered 119/800
+B7B33DED, Discovered 120/800
+C0623171, Discovered 121/800
+6E83B011, Discovered 122/800
+6ADA18A0, Discovered 123/800
+195B806D, Discovered 124/800
+38111006, Discovered 125/800
+F48ED32C, Discovered 126/800
+B16ED570, Discovered 127/800
+97B4D81E, Discovered 128/800
+921AB9BE, Discovered 129/800
+52337376, Discovered 130/800
+2B65A8C6, Discovered 131/800
+EFA97212, Discovered 132/800
+E7FA42E4, Discovered 133/800
+1D3414AF, Discovered 134/800
+F43F3B6A, Discovered 135/800
+BE759820, Discovered 136/800
+B1F68E05, Discovered 137/800
+204842FB, Discovered 138/800
+6014C97A, Discovered 139/800
+54398438, Discovered 140/800
+786F1961, Discovered 141/800
+7FA6E25D, Discovered 142/800
+7D53D67C, Discovered 143/800
+35474823, Discovered 144/800
+924CFAFE, Discovered 145/800
+AB67C51B, Discovered 146/800
+57CE3D25, Discovered 147/800
+660F7AF0, Discovered 148/800
+58CCB384, Discovered 149/800
+6AAC7202, Discovered 150/800
+85E184E1, Discovered 151/800
+EBDBFB8F, Discovered 152/800
+BB7A3971, Discovered 153/800
+93CF3F5F, Discovered 154/800
+95595663, Discovered 155/800
+565282ED, Discovered 156/800
+8F7624A9, Discovered 157/800
+5AFD2D6B, Discovered 158/800
+D17F887E, Discovered 159/800
+49DE90A2, Discovered 160/800
+4BAE77EB, Discovered 161/800
+AF4B71E2, Discovered 162/800
+5FE72299, Discovered 163/800
+13F25962, Discovered 164/800
+7E89C6C4, Discovered 165/800
+8AE2F96D, Discovered 166/800
+CC3C333A, Discovered 167/800
+0E0FCF9A, Discovered 168/800
+C1469931, Discovered 169/800
+B73A941E, Discovered 170/800
+C9CA7CD2, Discovered 171/800
+6665A057, Discovered 172/800
+DB6080D3, Discovered 173/800
+352FD128, Discovered 174/800
+13476999, Discovered 175/800
+35E72922, Discovered 176/800
+2664E817, Discovered 177/800
+61FA40E4, Discovered 178/800
+296ABB68, Discovered 179/800
+90BD0B64, Discovered 180/800
+E5460850, Discovered 181/800
+3C40751F, Discovered 182/800
+6F88B8EC, Discovered 183/800
+871049B8, Discovered 184/800
+5F78E273, Discovered 185/800
+C6B2672D, Discovered 186/800
+E5DEB668, Discovered 187/800
+2261EECD, Discovered 188/800
+9B450A3C, Discovered 189/800
+399897AC, Discovered 190/800
+3DCFC5B1, Discovered 191/800
+0B8BD765, Discovered 192/800
+DE431B1C, Discovered 193/800
+9C191836, Discovered 194/800
+C96E818B, Discovered 195/800
+6FBD94D8, Discovered 196/800
+DCBBA17C, Discovered 197/800
+71CCC6AB, Discovered 198/800
+88D9065B, Discovered 199/800
+FFB8AF38, Discovered 200/800
+7587FCF4, Discovered 201/800
+37FB97BC, Discovered 202/800
+E428EC4B, Discovered 203/800
+5F38F557, Discovered 204/800
+A83A30FB, Discovered 205/800
+AFA82118, Discovered 206/800
+A3D01F32, Discovered 207/800
+96573023, Discovered 208/800
+A4C0E214, Discovered 209/800
+5F8B2C8C, Discovered 210/800
+23540456, Discovered 211/800
+EA3BC1B5, Discovered 212/800
+7B8DC6CA, Discovered 213/800
+5EF13209, Discovered 214/800
+DC4E0873, Discovered 215/800
+B3401DF6, Discovered 216/800
+D3560308, Discovered 217/800
+2F3D0070, Discovered 218/800
+C28F7BCC, Discovered 219/800
+0F10ED2C, Discovered 220/800
+0C70E302, Discovered 221/800
+5979AA93, Discovered 222/800
+E5926868, Discovered 223/800
+EE3EC008, Discovered 224/800
+EAC0DF3C, Discovered 225/800
+D15486B2, Discovered 226/800
+122AFB1B, Discovered 227/800
+9D020E86, Discovered 228/800
+D7CDCA8D, Discovered 229/800
+99AAAD36, Discovered 230/800
+A8E67718, Discovered 231/800
+92D2CE81, Discovered 232/800
+4A270CC1, Discovered 233/800
+6990B0E8, Discovered 234/800
+D0B01C67, Discovered 235/800
+673A6172, Discovered 236/800
+C4D4D7B8, Discovered 237/800
+4B5BAB7F, Discovered 238/800
+A6C5A988, Discovered 239/800
+8D96A5D7, Discovered 240/800
+E5203D31, Discovered 241/800
+7BDCBFFA, Discovered 242/800
+20BE71CC, Discovered 243/800
+FE167DC0, Discovered 244/800
+64BCEE3F, Discovered 245/800
+FDB15D00, Discovered 246/800
+F5C77544, Discovered 247/800
+90F29AF6, Discovered 248/800
+143303A2, Discovered 249/800
+6901D090, Discovered 250/800
+281C1434, Discovered 251/800
+3D4B6033, Discovered 252/800
+B4D2111F, Discovered 253/800
+B546DBC0, Discovered 254/800
+8A78B233, Discovered 255/800
+4799F37E, Discovered 256/800
+73E911D0, Discovered 257/800
+B5FE3455, Discovered 258/800
+27660BFB, Discovered 259/800
+EC9A9715, Discovered 260/800
+4B0EB28D, Discovered 261/800
+DADE1556, Discovered 262/800
+985A07F9, Discovered 263/800
+401A677F, Discovered 264/800
+4D85A3E8, Discovered 265/800
+4D285674, Discovered 266/800
+5F422674, Discovered 267/800
+E96B0474, Discovered 268/800
+4A50D6C6, Discovered 269/800
+B8E02767, Discovered 270/800
+273A57FC, Discovered 271/800
+48B7181E, Discovered 272/800
+A49D0E2F, Discovered 273/800
+2DF04A2F, Discovered 274/800
+4DFE5A70, Discovered 275/800
+0F4D0002, Discovered 276/800
+435A4F4F, Discovered 277/800
+62B64035, Discovered 278/800
+07DE698B, Discovered 279/800
+3B73040E, Discovered 280/800
+6E7D4C07, Discovered 281/800
+73D241EA, Discovered 282/800
+5F08BF0B, Discovered 283/800
+F095C412, Discovered 284/800
+7860DE3A, Discovered 285/800
+58B405E7, Discovered 286/800
+64388431, Discovered 287/800
+9EB2B140, Discovered 288/800
+F98D2468, Discovered 289/800
+AA728FD7, Discovered 290/800
+5509C7AD, Discovered 291/800
+865134F7, Discovered 292/800
+88898186, Discovered 293/800
+DD745CBA, Discovered 294/800
+26F297CB, Discovered 295/800
+BA6D8714, Discovered 296/800
+602B1A90, Discovered 297/800
+777DD1E4, Discovered 298/800
+3D2ACAD4, Discovered 299/800
+B2483FE4, Discovered 300/800
+B109319F, Discovered 301/800
+90D93436, Discovered 302/800
+72B672EF, Discovered 303/800
+CAEEE6A5, Discovered 304/800
+20342C53, Discovered 305/800
+7531F38B, Discovered 306/800
+C473AE8F, Discovered 307/800
+E8AF22FB, Discovered 308/800
+A1879895, Discovered 309/800
+BB262EF4, Discovered 310/800
+928687EC, Discovered 311/800
+44F21FE3, Discovered 312/800
+14B0FD66, Discovered 313/800
+DBBE9265, Discovered 314/800
+DFF3CB3B, Discovered 315/800
+2E01EFD9, Discovered 316/800
+D1C6C83C, Discovered 317/800
+09710330, Discovered 318/800
+E4DE67D8, Discovered 319/800
+9673FD93, Discovered 320/800
+9A7503DD, Discovered 321/800
+060224CE, Discovered 322/800
+C2229ABA, Discovered 323/800
+90B9E7B5, Discovered 324/800
+C1965457, Discovered 325/800
+C38249FC, Discovered 326/800
+98995FFB, Discovered 327/800
+F91AFEA2, Discovered 328/800
+9BD9ECAE, Discovered 329/800
+8D69B4AE, Discovered 330/800
+9619F656, Discovered 331/800
+B081828A, Discovered 332/800
+F6D06EDE, Discovered 333/800
+F1B58B4A, Discovered 334/800
+1582746C, Discovered 335/800
+5F0391CB, Discovered 336/800
+BA41D8AA, Discovered 337/800
+9814EEDB, Discovered 338/800
+9D66A11B, Discovered 339/800
+69517DA0, Discovered 340/800
+ADB47437, Discovered 341/800
+83DE3A68, Discovered 342/800
+B6ED13C1, Discovered 343/800
+F189D5EB, Discovered 344/800
+9B06892B, Discovered 345/800
+54A21540, Discovered 346/800
+684BDB5C, Discovered 347/800
+8A3A22B1, Discovered 348/800
+712A709D, Discovered 349/800
+7FB030FA, Discovered 350/800
+35751FFE, Discovered 351/800
+DDB5A823, Discovered 352/800
+737E24F4, Discovered 353/800
+A18C33BF, Discovered 354/800
+F56C3378, Discovered 355/800
+1357DFBF, Discovered 356/800
+1B2E3573, Discovered 357/800
+99316C9D, Discovered 358/800
+8C062246, Discovered 359/800
+DC3F2642, Discovered 360/800
+4107FB43, Discovered 361/800
+9D217CAB, Discovered 362/800
+B953B77C, Discovered 363/800
+55ACF4AA, Discovered 364/800
+98B38107, Discovered 365/800
+3842D9E2, Discovered 366/800
+7C3E126C, Discovered 367/800
+DCD538C7, Discovered 368/800
+70BCD777, Discovered 369/800
+926B2D98, Discovered 370/800
+93D69A76, Discovered 371/800
+11A40A2F, Discovered 372/800
+030FF002, Discovered 373/800
+13588B22, Discovered 374/800
+35B46F76, Discovered 375/800
+40A23592, Discovered 376/800
+2231CF8B, Discovered 377/800
+9AE4A2BC, Discovered 378/800
+D2B30709, Discovered 379/800
+707E371A, Discovered 380/800
+C6A2E864, Discovered 381/800
+5F17D4DF, Discovered 382/800
+D4E574AF, Discovered 383/800
+0918FC03, Discovered 384/800
+8210F87A, Discovered 385/800
+FF0E8C44, Discovered 386/800
+7DAE13F6, Discovered 387/800
+8FF442A8, Discovered 388/800
+57476108, Discovered 389/800
+2D186AE9, Discovered 390/800
+114FE3B5, Discovered 391/800
+C43EE7CC, Discovered 392/800
+F9822345, Discovered 393/800
+2F82F5B4, Discovered 394/800
+799444DC, Discovered 395/800
+95ECFE71, Discovered 396/800
+FD5AB59C, Discovered 397/800
+DDFA346C, Discovered 398/800
+B47A1AA6, Discovered 399/800
+09CB1EF6, Discovered 400/800
+298ECD93, Discovered 401/800
+1C55CFAA, Discovered 402/800
+CBFBCC61, Discovered 403/800
+D18258A4, Discovered 404/800
+0DB017AC, Discovered 405/800
+D1D920BD, Discovered 406/800
+E57A6BAB, Discovered 407/800
+F120D78A, Discovered 408/800
+8466A6A6, Discovered 409/800
+1D9ABF57, Discovered 410/800
+52CB0EE6, Discovered 411/800
+E8E56187, Discovered 412/800
+C83433D5, Discovered 413/800
+D60FA8BE, Discovered 414/800
+BE857C26, Discovered 415/800
+C22698B1, Discovered 416/800
+23D8A3D4, Discovered 417/800
+56C4413C, Discovered 418/800
+6873103B, Discovered 419/800
+2BB626AD, Discovered 420/800
+B72FB0D0, Discovered 421/800
+A26A1833, Discovered 422/800
+AEEBBF2B, Discovered 423/800
+B5CC197C, Discovered 424/800
+6AE80B72, Discovered 425/800
+6AFD9445, Discovered 426/800
+84F2F1C8, Discovered 427/800
+427FDB6A, Discovered 428/800
+EB9F88AF, Discovered 429/800
+AE147124, Discovered 430/800
+1AF1972B, Discovered 431/800
+91AAC0DE, Discovered 432/800
+F9B12557, Discovered 433/800
+54C17924, Discovered 434/800
+D815BBA0, Discovered 435/800
+D1EE076A, Discovered 436/800
+EC7E0734, Discovered 437/800
+26FE73D2, Discovered 438/800
+247498E5, Discovered 439/800
+5E1FF11D, Discovered 440/800
+6C7AA137, Discovered 441/800
+D7A58346, Discovered 442/800
+3BAFD364, Discovered 443/800
+D00FC6B7, Discovered 444/800
+BF905D72, Discovered 445/800
+FD2D1303, Discovered 446/800
+708C9EC5, Discovered 447/800
+FF4D3B63, Discovered 448/800
+68AD27BA, Discovered 449/800
+1784089E, Discovered 450/800
+0B39D863, Discovered 451/800
+E745C983, Discovered 452/800
+3AAA3165, Discovered 453/800
+3AAAD8C3, Discovered 454/800
+DB60BB89, Discovered 455/800
+BBA19E4F, Discovered 456/800
+EF7434BC, Discovered 457/800
+3FBBF35B, Discovered 458/800
+9ADC36B9, Discovered 459/800
+6772AC66, Discovered 460/800
+8DA291B2, Discovered 461/800
+ABD5A31A, Discovered 462/800
+E658F2EB, Discovered 463/800
+DE49334D, Discovered 464/800
+24A0FAF6, Discovered 465/800
+FC64C78D, Discovered 466/800
+C665A37E, Discovered 467/800
+5858D126, Discovered 468/800
+E1EAF716, Discovered 469/800
+3519DE68, Discovered 470/800
+B33C6725, Discovered 471/800
+A26A20ED, Discovered 472/800
+98F0E9FC, Discovered 473/800
+12EC4DDD, Discovered 474/800
+0C9AD789, Discovered 475/800
+5F6AC32D, Discovered 476/800
+7A3E9E48, Discovered 477/800
+CCDA573E, Discovered 478/800
+FDDD4242, Discovered 479/800
+E20A4A44, Discovered 480/800
+30802CAB, Discovered 481/800
+5D5701FD, Discovered 482/800
+361AF384, Discovered 483/800
+9EB6C2CF, Discovered 484/800
+EC56429C, Discovered 485/800
+5AD06B9C, Discovered 486/800
+9127A52F, Discovered 487/800
+7697A5A9, Discovered 488/800
+B24B01BA, Discovered 489/800
+F4E49766, Discovered 490/800
+2CE3A429, Discovered 491/800
+E194DBB4, Discovered 492/800
+87BB7B3F, Discovered 493/800
+D53A5B76, Discovered 494/800
+4FC2AE3D, Discovered 495/800
+DCAE2B20, Discovered 496/800
+E64370EE, Discovered 497/800
+A983EB47, Discovered 498/800
+1A3660B6, Discovered 499/800
+7D27C106, Discovered 500/800
+80AADABB, Discovered 501/800
+60FE0284, Discovered 502/800
+0E0F6CE5, Discovered 503/800
+FA20C4A7, Discovered 504/800
+9C5A9800, Discovered 505/800
+88B5632C, Discovered 506/800
+D7374AD1, Discovered 507/800
+EFF42057, Discovered 508/800
+5C5D22CF, Discovered 509/800
+302A12FF, Discovered 510/800
+A7014096, Discovered 511/800
+938674C9, Discovered 512/800
+087FC0CC, Discovered 513/800
+9DCD3382, Discovered 514/800
+4393E95F, Discovered 515/800
+88FC8372, Discovered 516/800
+CE90D4BC, Discovered 517/800
+6D8AC334, Discovered 518/800
+770548CD, Discovered 519/800
+66EF92AB, Discovered 520/800
+C908FB91, Discovered 521/800
+ED7D33A4, Discovered 522/800
+E802667F, Discovered 523/800
+441AF9EE, Discovered 524/800
+5E8A5A34, Discovered 525/800
+EE391D28, Discovered 526/800
+B6B5C1C2, Discovered 527/800
+A43CAFB1, Discovered 528/800
+9F8AD829, Discovered 529/800
+72BE73EE, Discovered 530/800
+94BD0AD6, Discovered 531/800
+5C630682, Discovered 532/800
+D32E7550, Discovered 533/800
+E055D5AD, Discovered 534/800
+77A13C3B, Discovered 535/800
+E9E0AB81, Discovered 536/800
+B6947D8A, Discovered 537/800
+348097F2, Discovered 538/800
+2FACD2D0, Discovered 539/800
+B2628953, Discovered 540/800
+4BD8883A, Discovered 541/800
+0E84E692, Discovered 542/800
+AC758E35, Discovered 543/800
+533F4BDF, Discovered 544/800
+DE7EC45E, Discovered 545/800
+F0DA7B5E, Discovered 546/800
+8F6EA117, Discovered 547/800
+A6346974, Discovered 548/800
+1695F69D, Discovered 549/800
+7B211666, Discovered 550/800
+6774B494, Discovered 551/800
+6B3BA922, Discovered 552/800
+A81FB8F0, Discovered 553/800
+F6160031, Discovered 554/800
+020922EE, Discovered 555/800
+941D370F, Discovered 556/800
+EAE8F08F, Discovered 557/800
+F492701A, Discovered 558/800
+39D592E1, Discovered 559/800
+9FD2A5B0, Discovered 560/800
+F1AB4865, Discovered 561/800
+27774128, Discovered 562/800
+0E41100A, Discovered 563/800
+92C9490C, Discovered 564/800
+21A7A21F, Discovered 565/800
+37828748, Discovered 566/800
+76391A3F, Discovered 567/800
+6D915427, Discovered 568/800
+7529063F, Discovered 569/800
+2E5458F8, Discovered 570/800
+3B84DC16, Discovered 571/800
+8C39D7B2, Discovered 572/800
+9BBF5C29, Discovered 573/800
+4B0676BE, Discovered 574/800
+61ACEDBF, Discovered 575/800
+E452FAD4, Discovered 576/800
+71730A65, Discovered 577/800
+C19D0C58, Discovered 578/800
+B41A53D3, Discovered 579/800
+D454C203, Discovered 580/800
+8DB05CF8, Discovered 581/800
+07F6C973, Discovered 582/800
+DC1A209E, Discovered 583/800
+E5793EAE, Discovered 584/800
+C0382714, Discovered 585/800
+AFB76FE6, Discovered 586/800
+B1D98D5C, Discovered 587/800
+C9E2F53A, Discovered 588/800
+AE94706B, Discovered 589/800
+A04046CE, Discovered 590/800
+FB1C0822, Discovered 591/800
+A1B77233, Discovered 592/800
+EE083B14, Discovered 593/800
+D309507F, Discovered 594/800
+F4B5B1D3, Discovered 595/800
+FFC94FC9, Discovered 596/800
+398FC894, Discovered 597/800
+32B358E2, Discovered 598/800
+1CF1E638, Discovered 599/800
+5CAF6AE1, Discovered 600/800
+DDD3DC54, Discovered 601/800
+ED4E491C, Discovered 602/800
+95656F84, Discovered 603/800
+48F6A390, Discovered 604/800
+821F7DBB, Discovered 605/800
+98441D5F, Discovered 606/800
+F69A7C23, Discovered 607/800
+D1AD8F8F, Discovered 608/800
+CD9B92AE, Discovered 609/800
+A95E2967, Discovered 610/800
+66CD0F7B, Discovered 611/800
+2DEAAD0B, Discovered 612/800
+16B40482, Discovered 613/800
+51810EB1, Discovered 614/800
+9DC76772, Discovered 615/800
+3AFE7B53, Discovered 616/800
+2D5738FF, Discovered 617/800
+DEE9D280, Discovered 618/800
+1EEC39F3, Discovered 619/800
+15D4E182, Discovered 620/800
+224A2254, Discovered 621/800
+5C09B4C1, Discovered 622/800
+8A69F9E7, Discovered 623/800
+5E05FAF4, Discovered 624/800
+B5F9EC78, Discovered 625/800
+721F53B3, Discovered 626/800
+DF4F9D85, Discovered 627/800
+01C9E59B, Discovered 628/800
+E36EA7C1, Discovered 629/800
+66B78BCA, Discovered 630/800
+CB71A63B, Discovered 631/800
+3F67EA52, Discovered 632/800
+F2C33E29, Discovered 633/800
+97B15591, Discovered 634/800
+46CF5503, Discovered 635/800
+CE758546, Discovered 636/800
+C53706EF, Discovered 637/800
+EA5C1079, Discovered 638/800
+5D333EB4, Discovered 639/800
+60CE7BED, Discovered 640/800
+530356CC, Discovered 641/800
+74B4491C, Discovered 642/800
+D03BA3AB, Discovered 643/800
+22DA58F3, Discovered 644/800
+A5E8CAED, Discovered 645/800
+9DBCFD33, Discovered 646/800
+5D462C29, Discovered 647/800
+99DD3E7D, Discovered 648/800
+CB474084, Discovered 649/800
+FF32A312, Discovered 650/800
+E9B1C895, Discovered 651/800
+73A3911A, Discovered 652/800
+88943A0D, Discovered 653/800
+49B0A2B2, Discovered 654/800
+F7B50B77, Discovered 655/800
+E23F48BB, Discovered 656/800
+354CE93D, Discovered 657/800
+1E5826D2, Discovered 658/800
+05F9461E, Discovered 659/800
+1AADE81C, Discovered 660/800
+AA5F46F6, Discovered 661/800
+97D732C6, Discovered 662/800
+45B0448F, Discovered 663/800
+F4ADEB32, Discovered 664/800
+13890BAB, Discovered 665/800
+C1864771, Discovered 666/800
+E6B4735B, Discovered 667/800
+11AD66F4, Discovered 668/800
+C6E26ACB, Discovered 669/800
+CD42E323, Discovered 670/800
+7F3BA575, Discovered 671/800
+6C2BDADB, Discovered 672/800
+DE14829F, Discovered 673/800
+96F61AD4, Discovered 674/800
+D42C6086, Discovered 675/800
+53CBACEF, Discovered 676/800
+448424F8, Discovered 677/800
+A1199E76, Discovered 678/800
+94A30FAE, Discovered 679/800
+F66E2CBD, Discovered 680/800
+89830C69, Discovered 681/800
+A384CF92, Discovered 682/800
+40377018, Discovered 683/800
+BDEEF796, Discovered 684/800
+CF0C470F, Discovered 685/800
+A530D5A6, Discovered 686/800
+1674CAAB, Discovered 687/800
+6F3642F9, Discovered 688/800
+ECBAE61A, Discovered 689/800
+4F9E4BD5, Discovered 690/800
+DC56E463, Discovered 691/800
+B3F00105, Discovered 692/800
+F1AABA45, Discovered 693/800
+8F4EC44F, Discovered 694/800
+1DD5AF26, Discovered 695/800
+2F52E7B7, Discovered 696/800
+4AAB361E, Discovered 697/800
+D43EAA43, Discovered 698/800
+FF21B531, Discovered 699/800
+94D7ED40, Discovered 700/800
+EA27EAB9, Discovered 701/800
+03B3F52D, Discovered 702/800
+982CB437, Discovered 703/800
+29C5D794, Discovered 704/800
+32780E48, Discovered 705/800
+213EB124, Discovered 706/800
+202F442E, Discovered 707/800
+062B8CAA, Discovered 708/800
+D853ECF5, Discovered 709/800
+864522FC, Discovered 710/800
+76BBB480, Discovered 711/800
+83C2755A, Discovered 712/800
+77D59230, Discovered 713/800
+9F5966CC, Discovered 714/800
+29D2E607, Discovered 715/800
+CEE5272A, Discovered 716/800
+CF05200C, Discovered 717/800
+BED0BF80, Discovered 718/800
+3A83E677, Discovered 719/800
+526A12A1, Discovered 720/800
+DB51ED81, Discovered 721/800
+C584BC54, Discovered 722/800
+D2501D7C, Discovered 723/800
+AECE9D99, Discovered 724/800
+43A84D09, Discovered 725/800
+23096434, Discovered 726/800
+EF6224C1, Discovered 727/800
+91B8AD87, Discovered 728/800
+C0B0F899, Discovered 729/800
+BBEE2A48, Discovered 730/800
+724FB0B5, Discovered 731/800
+A7A7CCCA, Discovered 732/800
+5EBF5D11, Discovered 733/800
+8DC171C9, Discovered 734/800
+6DB2BB12, Discovered 735/800
+BA22D572, Discovered 736/800
+B10839EF, Discovered 737/800
+3EC9723C, Discovered 738/800
+31295D7E, Discovered 739/800
+E8C264D6, Discovered 740/800
+3FB260EF, Discovered 741/800
+001FED55, Discovered 742/800
+E07018C6, Discovered 743/800
+35DA8F3E, Discovered 744/800
+5D82EDE3, Discovered 745/800
+B6BC7430, Discovered 746/800
+C91EB0BF, Discovered 747/800
+A3B90F41, Discovered 748/800
+29C1F602, Discovered 749/800
+063FCEA3, Discovered 750/800
+193F499B, Discovered 751/800
+9EC01992, Discovered 752/800
+230625FC, Discovered 753/800
+EDCEF0A2, Discovered 754/800
+EE65A99E, Discovered 755/800
+4CF7C862, Discovered 756/800
+E8E3AF61, Discovered 757/800
+FA20F6E6, Discovered 758/800
+4CA24FBA, Discovered 759/800
+38FBCCD8, Discovered 760/800
+70916DDE, Discovered 761/800
+3FB6F6EA, Discovered 762/800
+43AEDAC0, Discovered 763/800
+9EF83928, Discovered 764/800
+A478E5B4, Discovered 765/800
+8DC6B079, Discovered 766/800
+2B3BC094, Discovered 767/800
+905BA3B3, Discovered 768/800
+8D0EB23C, Discovered 769/800
+0D75A65E, Discovered 770/800
+2CFB591E, Discovered 771/800
+63C8AB28, Discovered 772/800
+66A17944, Discovered 773/800
+9A0BAABE, Discovered 774/800
+F22DEF77, Discovered 775/800
+B72585EA, Discovered 776/800
+4237B24D, Discovered 777/800
+23A6ACA1, Discovered 778/800
+41B14A44, Discovered 779/800
+F9E59AE8, Discovered 780/800
+CA55F0D6, Discovered 781/800
+379A2DC3, Discovered 782/800
+69E933D8, Discovered 783/800
+50B066AA, Discovered 784/800
+E58CF90F, Discovered 785/800
+821DAC63, Discovered 786/800
+682A4440, Discovered 787/800
+DFC1EBE6, Discovered 788/800
+7AED11B6, Discovered 789/800
+93EC745E, Discovered 790/800
+8DEFD074, Discovered 791/800
+DC15B8B9, Discovered 792/800
+7AA69B76, Discovered 793/800
+D4E328E4, Discovered 794/800
+4FF28B2A, Discovered 795/800
+E2AF9C72, Discovered 796/800
+1DBB0290, Discovered 797/800
+AF8751CF, Discovered 798/800
+F9C8425A, Discovered 799/800
+8AE183AF, Discovered 800/800
+-----------------------------------
+Locations
+
+D48A39A6-Lurelin Village Well 2941 -3378 -0004
+2DBA628C-Lurelin Village Well 2941 -3378 -0004
+
+-----------------------------------
+58 Wells x2 = 116 Flags (not sure why every well has 2 flags)
+7d9ad2b9
+aa692d8f
+7d075fc4
+1a1d2dc4
+51ca4ba7
+96a89582
+45b30297
+84360aee
+933ef2da
+70ea3f6b
+c8951de0
+ca3759a0
+9f5988d4
+0a623984
+4f0285cc
+3536ec3a
+6efd054e
+324e7abe
+295a5e07
+c34379ae
+1cee4385
+52446b30
+c50cdfb7
+7651924a
+d81c08d6
+321a53c1
+aff27cb8
+d65c76bd
+10d31a20
+f2369d24
+fc42a6b8
+d2cbb159
+cf474c86
+1c2b453d
+a6e5a3a5
+d97f0bf2
+1380e557
+6ff9ab89
+657ad3df
+be2e98c8
+aa2d64bd
+cf49f2f4
+b91f743d
+ce10c409
+2a57abc0
+d0e99318
+4362cf69
+bd04710f
+c1af1bc2
+69dbca5d
+4046d03d
+097d69f4
+bdb49eca
+52288548
+580b10e3
+52fc93c7
+fb24550e
+8aec454c
+8433b864
+84260607
+f790f14c
+0b01b135
+be134c79
+de9778a1
+ed769d7f
+18d40c90
+82cf89a8
+9c102b50
+146228ba
+b34cb810
+73d3b6a1
+50b7ff7c
+9a3bbae6
+91d5dbc4
+bad036bf
+33ed2128
+9d8c9e37
+307478a2
+d5da3dc2
+22c36d33
+20345a54
+d48a39a6
+8d94eccf
+db05738a
+f93a7b62
+bd07e84b
+caa22279
+2dba628c
+7b698cff
+cc574d89
+d2e03aab
+f281fcdf
+22bf95a3
+10358cdf
+17728ef2
+0ef1efca
+b3f29303
+c6ecd904
+6585923e
+142f6e30
+9b585a39
+af2751bc
+93cf0484
+68d8678c
+a79e018f
+eebfae4a
+09824b9b
+40519576
+91c7b29b
+948ee4c3
+eb54bec3
+9af34b71
+33c242cf
+5057aba2
+104fc5b9
+ed8c6c70
+
+Dronoc's Pass Well
+Tabantha Village Ruins Well
+Maritta Exchange Ruins Well
+Rowan Plain Well
+Irch Plain Well
+Elma Knolls Well
+Carok Bridge Well
+Mount Gustaf Well
+Mount Daphnes Well
+Aquame Lake Well
+Outskirt Stable Well
+Outskirt Hill Well
+Mount Nabooru Well
+Rauru Settlement Ruins Well
+Hyrule Castle Town Ruins Well
+Mabe Village Ruins Well
+Rebonae Bridge Well
+Bottomless Pond Well
+South Nabi Lake Well
+Deya Village Ruins North Well
+Deya Village Ruins Well
+Deya Village Ruins East Well
+Deya Village Ruins South Well
+Hills of Baumer Well
+Popla Foothills North Well
+Popla Foothills South Well
+Moor Garrison Ruins Well
+Zauz Island Well
+Goponga Village Ruins Well
+Lanayru Wetlands Well
+Rikoka Hills Well
+Tabahl Woods Well
+Shadow Hamlet Ruins Well
+Kara Kara Bazaar Well
+Lurelin Village Well
+Lakeside Stable Well
+Highland Stable Well
+Snowfield Stable Well
+Gerudo Canyon Well
+Riverside Stable Well
+Wetland Stable Well
+Wetland Stable South Well
+Dueling Peaks Stable Well
+Hateno Village North Well
+Hateno Village West Well
+Hateno Village East Well
+Hateno Village South Well
+Zelda's Secret Well
+New Serenne Stable Well
+Kakariko Village Well
+Woodland Stable Well
+Lookout Landing Well
+Foothill Stable Well
+Construction Site Well
+South Akkala Stable Well
+East Akkala Stable Well
+Haran Lakefront Well
+Tabantha Bridge Stable Well
 -----------------------------------
 ************ Spoilers ************
 
@@ -252,6 +1479,13 @@ Repeat 30 times / 30 slots including 8 favorites
 0002378C - b6035fae - Mineru Golem Unlocked
 
 **********************************
+-----------------------------------
+Boss Health
+Master Kohga 1 - 600
+Master Kohga 2 - 900
+Master Kohga 3 - 1200
+Master Kohga 4 - 2200 (20000 Golem)
+
 -----------------------------------
 Save editing Tools
 -----------------------------------
