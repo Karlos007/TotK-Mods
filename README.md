@@ -1,8 +1,8 @@
-# The Legend of Zelda: Tears of the Kingdom | BGYML Mods and Saves
-The Legend of Zelda: Tears of the Kingdom | BGYML Mods and Saves
+# The Legend of Zelda: Tears of the Kingdom
+WIP Mods, Saves, Korok Hashes, Flags...
+
 
 https://gamebanana.com/mods/443138 100% Critical Cooking
-
 https://gamebanana.com/mods/443139 Easy Horse Upgrade
 
 Not mine but I recommend https://gamebanana.com/mods/444097 (Guaranteed amiibo Items)
