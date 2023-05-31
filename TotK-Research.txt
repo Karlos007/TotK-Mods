@@ -1,385 +1,4 @@
-
-=== Paraglider Fabric ===
-0001388C - 7ff848d1 - Default Fabric
-0000D59C - b65bc9d7 - Goron Fabric
-000259D4 - 41929f49 - Zora Fabric
-0000C65C - 084da01f - Gerudo Fabric
-00026A74 - 31a2d1cc - Royal Emblem Fabric
-00016924 - 865f713d - Zonai Fabric
-0001603C - 30669b55 - Sheikah Fabric
-00004A84 - 022aef11 - Yiga Fabric
-00000EA4 - 112734b9 - Monster-Control-Crew Fabric
-0001E49C - dbc821f2 - Zonai Survey Team Fabric
-00017384 - 1ecc8c93 - God Horse Fabric
-0001FD3C - 405203b9 - Lurelin Fabric
-0001D934 - 7c38e018 - Lucky Clover Gazette Fabric
-0001F814 - 0636a9e7 - Hudson Construction Fabric
-0000E564 - 09865592 - Koltin Fabric
-0001B144 - 57129d72 - Korok Fabric
-00019EDC - f4035866 - Grizzlemaw-Bear Fabric
-00021B5C - c80d0bf1 - Rotver Fabric
-00024FB4 - 96427113 - Cece Fabric
-0000A2EC - 8ef713e8 - Aerocuda Fabric
-00005394 - 92754bbd - Eldin-Ostrich Fabric
-00024EF4 - 94d2472d - Cucco Fabric
-0001F174 - e6cacf83 - Horse Fabric
-00020674 - 85a4e8e3 - Chuchu Fabric
-0001017C - ca1847dd - Lynel Fabric
-00005FB4 - 8c007dbc - Griok Fabric
-00027D4C - a2aec992 - Stalnox Fabric
-00003E0C - 7c552e01 - Tunic of Memories Fabric
-00026A94 - ca76a631 - Hylian-Hood Fabric
-000020CC - d9c206b1 - Hyrule-Princess Fabric
-00015DEC - 6443f768 - Goron-Champion Fabric
-0001CA1C - 397217b2 - Rito-Champion Fabric
-00013C74 - 6fb24dcc - Zora-Champion Fabric
-0001CE6C - 38267d74 - Gerudo-Champion Fabric
-00005004 - ca2baf8b - Ancient-Sheikah Fabric
-0001CC44 - 500ce8e9 - Bokoblin Fabric
-000224BC - 861db450 - Demon King Fabric
-00018A1C - 8dbea34c - King of Red Lions Fabric
-00004A1C - d552e642 - Sheik's Fabric
-0001C79C - 6199467d - Mirror of Twilight Fabric
-00025BEC - 6625f898 - Princess of Twilight Fabric
-000089DC - 63452b97 - Lon Lon Ranch Fabric
-0002781C - 53e2da50 - Majora’s Mask Fabric
-0001C95C - ee3f78e3 - Bygone-Royal Fabric
-00016A64 - f2d50ecf - Sword-Spirit Fabric
-00025DE4 - a4bf8025 - Pixel Fabric
-0001C384 - 0f1e166d - Egg Fabric
-0001F5FC - c9ab8463 - Goddess Fabric
-00027F54 - 21170251 - Champion's Leathers Fabric
-0000129C - eaae73a3 - Princess Zelda Fabric
-00020BA4 - a5ecfeec - Gerudo-King Fabric
-0001CE54 - 93e7260f - Nostalgic Fabric
-00010ACC - 6688319b - Addison's Fabric
-
-0003716C - 01d063db - Current design
-
-
-=== Autobuild Schematics ===
-0000114C - ee3db7d1 - Autobuild Schematics
-00002864 - 2abb2df0 - Autobuild Schematics
-00003CC4 - a07798a6 - Autobuild Schematics
-00003D74 - 6c8fca57 - Autobuild Schematics
-00004C5C - 0cbea150 - Autobuild Schematics
-000055FC - 499afa5b - Autobuild Schematics
-000059F4 - 3f9f61fd - Autobuild Schematics
-000072EC - 7708c653 - Autobuild Schematics
-000076D4 - 29bcade1 - Autobuild Schematics
-0000881C - 260ad4d3 - Autobuild Schematics
-00008E74 - 8476f277 - Autobuild Schematics
-00008F5C - 0520dea7 - Autobuild Schematics
-00009714 - 542b78f1 - Autobuild Schematics
-0000AE94 - d3f712cc - Autobuild Schematics
-0000CDF4 - 8fe4140a - Autobuild Schematics
-0000D28C - 97c52512 - Autobuild Schematics
-0000DCEC - d7ac3fc8 - Autobuild Schematics
-0000DFD4 - a7bccf88 - Autobuild Schematics
-000100C4 - be350fdb - Autobuild Schematics
-00011194 - 4ce68be6 - Autobuild Schematics
-00011B8C - 047dd1a3 - Autobuild Schematics
-00014634 - 8ebfc267 - Autobuild Schematics
-00014A94 - af8870c6 - Autobuild Schematics
-0001557C - 5109695f - Autobuild Schematics
-000168E4 - aaacf14d - Autobuild Schematics
-000170B4 - 6206da4f - Autobuild Schematics
-0001797C - abc30ab3 - Autobuild Schematics
-00017F6C - eee1492c - Autobuild Schematics
-000183D4 - 9f4ba799 - Autobuild Schematics
-000186C4 - a8707e8a - Autobuild Schematics
-0001B52C - 41b07b33 - Autobuild Schematics
-0001BD14 - b3752c42 - Autobuild Schematics
-0001D1D4 - 3385b6c6 - Autobuild Schematics
-0001D754 - 127a75c9 - Autobuild Schematics
-0001DA54 - 345e7150 - Autobuild Schematics
-0001E184 - b625e1fc - Autobuild Schematics
-0001E54C - 5fadc4e3 - Autobuild Schematics
-0001FEC4 - 97e22bf9 - Autobuild Schematics
-00020634 - 7f86e965 - Autobuild Schematics
-000219CC - 11f75220 - Autobuild Schematics
-00025334 - fba73b41 - Autobuild Schematics
-0002667C - a7ce2e78 - Autobuild Schematics
-000267A4 - 45f95172 - Autobuild Schematics
-000268F4 - 14fd96aa - Autobuild Schematics
-00026E8C - 0cddddbf - Autobuild Schematics
-000274EC - 732c5985 - Autobuild Schematics
-
-
-=== Event Flags ===
-0000942C - b0e23924 - Tablet 1/2 (-) Button
-0001176C - 82b7efeb - Tablet 2/2 Album
-0001CE14 - 8816dc32 - Ultrahand 1/2 Ultrahand unlocked
-0000BA1C - 5dbcb47b - Ultrahand 2/2 Amiibo unlocked
-00001F2C - a2e3b2aa - Fuse 1/2 Fuse unlocked
-00027F3C - bf30c4e2 - Fuse 2/2 Battery unlocked
-00012434 - fcd13c80 - Ascend unlocked
-0001B44C - 21eedede - Recall unlocked
-0001ABB4 - 4b392ebf - Teleport unlocked
-00013AF4 - 511f940c - Hyrule unlocked
-0000D6EC - 51330f2b - Autobuild ability unlocked
-0002175C - cff9dad5 - Autobuild menu unlocked
-000140EC - b8a1847f - Camera unlocked
-00006E74 - 891f8710 - Hyrule Compendium unlocked
-00008BA4 - d29e6024 - Hero Path unlocked
-
-0002A8D4 - 2cda0c19 - Demon Statue - Containers
-0002BBDC - a77921d7 - Rupees
-00034FA4 - f9212c74 - Stamina
-000357B4 - f6e7eacd - Equipped ability
-
-0000FC7C - 35d3afbe - Bloodmoon
-
-
-=== Recipes ===
-
-
-00023304 - 8bf5379f - Recipe #186
-
-
-
-
-
-
-
-
-
-
-Colored Pins Coords (v1.0.0)
-00053A20 1
-00053A2C 2
-00053A38 3
-00053A44 4
-00053A50 5
-00053A5C 6
------------------------------------
-
-Link X 00053324 (v1.0.0 000532EC)
-Link Y 00053328
-Link Z 0005332C
-
-000532E8 - Untamed Horse Pos (v1.0.0 000532B0)
-000532EC - Untamed Horse Pos
-000532F0 - Untamed Horse Pos
-
-00053E40 - Untamed Horse ID
-
-
-0008A128 - Horse ID 1
-0008A168 - Horse ID 2
-
-
-=== Travel Medallion ===
-1 X 0x00053A08
-1 Y 0x00053A0C
-1 Z 0x00053A10
- 
-2 X 0x00053A14
-2 Y 0x00053A18
-2 Z 0x00053A1C
- 
-3 X 0x00053A20
-3 Y 0x00053A24
-3 Z 0x00053A28
-
-
-=== Coordinates ===
-Prologue starting pos
-65,3255081176758
-35,2693901062012
--192,535919189453
-A9 A6 82 42 DB 13 0D 42 32 89 40 C3
-
-Ukouh Shrine (Ultrahand)
-275.1997681
-1565.827026
-911.4987183
-CE D0 89 43 77 BA C3 44 3E 80 63 44
-
-In-isa Shrine (Fuse)
-23.34442329
-1514.295532
-1504.307617
-61 C1 BA 41 75 49 BD 44 D8 09 BC 44
-
-Gutanbac Shrine (Ascend)
-708.8917847
-1690.195312
-1384.600098
-13 39 31 44 40 46 D3 44 34 13 AD 44
-
-Nachoyah Shrine 
-390.3617249
-2404.452637
-1662.573242
-4D 2E C3 43 3E 47 16 45 58 D2 CF 44
-
-Autobuild (Depths)
--805,746520996094
--415,189758300781
-1926,31958007813
-C7 6F 49 C4 4A 98 CF C3 3A CA F0 44
-
-Yiga Blademaster Station
--2476,43408203125
-243,040466308594
-1796,29443359375
-F2 C6 1A C5 5C 0A 73 43 6C 89 E0 44
-
-Yiga Clan Hideout
--2476,43408203125
-243,040466308594
-1796,29443359375
-F2 C6 1A C5 5C 0A 73 43 6C 89 E0 44
-
-Final Battle 001
--249.2728882
--1706.867432
--808.4770508
-DC 45 79 C3 C2 5B D5 C4 88 1E 4A C4
-
-Final Battle 002
--250
--2447
-975
-
-+--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
-| Dragon Tear 1 (Wiki -1413 0966 0125) | Dragon Tear 2 (Wiki -2551 1889 0320) | Dragon Tear 3 (Wiki 1828 0738 0090) | Dragon Tear 4 (Wiki 0695 -1309 0054) | Dragon Tear 5 (Wiki -3178 -1700 0420) | Dragon Tear 6 (Wiki -3096 -0077 0212) | Dragon Tear 7 (Wiki 3326 -3566 0006) | Dragon Tear 8 (Wiki -1864 3622 0238) | Dragon Tear 9 (Wiki 4468 -0305 0076) | Dragon Tear 10 (Wiki -0649 -2683 0069) | Dragon Tear 11 (Wiki 0892 2952 0363) | Dragon Tear 12 (Wiki 4535 2144 0002) |
-+--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
-| -1412,607421875                      | -2551,31958007813                    | 1828,32702636719                    | 694,6279296875                       | -3178,365234375                       | -3096,33422851562                     | 3325,72778320313                     | -1863,685546875                      | 4467,701171875                       | -649,3267822                           | 892,0291748                          | 4534,680176                          |
-| 229,228912353516                     | 425,230377197266                     | 195,521240234375                    | 159,176330566406                     | 524,933349609375                      | 317,150573730469                      | 110,716239929199                     | 342,735504150391                     | 180,947174072266                     | 174,3910828                            | 468,5645142                          | 106,6209488                          |
-| -966,107482910156                    | -1885,54016113281                    | -734,593566894531                   | 1312,22192382812                     | 1702,68713378906                      | 80,0556945800781                      | 3569,4501953125                      | -3618,78979492188                    | 307,989807128906                     | 2685,972412                            | -2948,690186                         | -2141,090088                         |
-| 70 93 B0 C4 9A 3A 65 43 E1 86 71 C4  | 1D 75 1F C5 7D 9D D4 43 49 B1 EB C4  | 77 8A E4 44 70 85 43 43 FD A5 37 C4 | 30 A8 2D 44 24 2D 1F 43 1A 07 A4 44  | D8 A5 46 C5 BC 3B 03 44 FD D5 D4 44   | E9 85 41 C5 69 4F 9E 43 E6 B8 9A 42   | A5 DB 4F 45 B7 6E DD 42 34 17 5F 45  | F0 F5 E8 C4 25 5E AB 43 A3 2C 62 C5  | 9C 9D 8B 45 7A F2 34 43 B2 FE 99 43  | EA 54 22 C4 1E 64 2E 43 8F DF 27 45    | DE 01 5F 44 42 48 EA 43 0B 4B 38 C5  | 71 B5 8D 45 ED 3D D5 42 71 D1 05 C5  |
-+--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
-
-Ride The Giant Horse
--692,632873535156
-278,050628662109
-3396,01904296875
-81 28 2D C4 7B 06 8B 43 4E 40 54 45
-
-Mayanas Shrine (Skydive Trial - Glide Mask) Wiki 4613 -0947 1804
-4544,87890625
-1226,62268066406
-845,93798828125
-08 07 8E 45 ED 53 99 44 08 7C 53 44
-
-Taunhiy Shrine (Skydive Trial - Glide Shirt) Wiki -2402 0825 0629
--2400,92553710938
-720,997680664062
--824,983703613281
-CF 0E 16 C5 DA 3F 34 44 F5 3E 4E C4
- 
-Simosiwak Shrine (Skydive Trial - Glide Tights) Wiki 0162 1972 0773
-163,071441650391
-864,604797363281
--1972,3876953125
-4A 12 23 43 B5 26 58 44 68 8C F6 C4
-
------------------------------------
-Device Dispenser RBox_Field_D_02.pack.zs
-Time Bomb, Small Wheel, Light, Rocket
--1213 -1585 1007
------------------------------------
-
------------------------------------
-Autobuild v1.1.0	v1.0.0
-Start at 000DB6DC	D7A5C
-Size 6692 / 0x1A24
-Repeat 30 times / 30 slots including 8 favorites
------------------------------------
-Koroks
-(8729BFA5 not carried / 62965740 carried)
-
-
-
-Unused 00000F04 - 3DB6D2E8
-Unused 00001C4C - 41740174
-Unused 0000231C - 1E9AD8F5
-Unused 000026BC - 033D538B
-Unused 00002B9C - 82ABF871
-Unused 00002DAC - 2E5492D2
-Unused 00003424 - 60A24C4A
-Unused 00003A4C - C461DBDA
-Unused 000044AC - F76F699F
-Unused 00004CEC - 2E4E14A9
-Unused 000057D4 - B220EDFD
-Unused 00005D54 - D14B49B7
-Unused 000061C4 - C0F3AE77
-Unused 00006924 - A67C7BD9
-Unused 00007334 - 39FDAD2B
-Unused 0000747C - 03D61597
-Unused 000074B4 - B2AD3D63
-Unused 00007E7C - 7A97BD3F
-Unused 000084FC - 7945C478
-Unused 0000893C - 94963F6A
-Unused 00008CAC - B2FCDD1C
-Unused 00009D74 - 255E9E0B
-Unused 0000A0C4 - 782803FC
-Unused 0000BE74 - 2A4A9087
-Unused 0000CA2C - 5C0C0397
-Unused 0000E7E4 - C7364679
-Unused 0000E95C - 787B9B7B
-Unused 0000EAAC - 84BC0302
-Unused 0000EC94 - 2C06F0CF
-Unused 0000EDA4 - 7C0B1B2C
-Unused 0000F594 - 867664C9
-Unused 0000FB3C - 4485CDB4
-Unused 00010FE4 - D97D25CE
-Unused 0001137C - 0263A545
-Unused 00011594 - 0071D101
-Unused 000121D4 - 61D3E577
-Unused 000122E4 - 73D39C67
-Unused 0001244C - 3405C87F
-Unused 00012834 - 121EAFEF
-Unused 00012F0C - 578A8EF4
-Unused 00013814 - 980FBD20
-Unused 0001398C - AC104ABD
-Unused 00014C7C - 32CAAF1F
-Unused 00015B54 - BC275818
-Unused 00015BCC - B2AEC813
-Unused 00015E2C - E087FDE0
-Unused 0001640C - 4D124876
-Unused 00016564 - D7CFE9E5
-Unused 0001691C - 46E6AAF5
-Unused 00016AA4 - 75EAB4B8
-Unused 0001875C - DC28665B
-Unused 000188A4 - C18C0172
-Unused 00018A7C - 230F12AC
-Unused 00019E3C - 729D2922
-Unused 0001A594 - 45196F2E
-Unused 0001AACC - 5334D66E
-Unused 0001AC24 - C97699E0
-Unused 0001ACCC - 0DE076F7
-Unused 0001B064 - 5E12F548
-Unused 0001B1FC - A5A77650
-Unused 0001B27C - 021434CB
-Unused 0001B49C - 2A8F52A6
-Unused 0001CA9C - 314C7734
-Unused 0001DB64 - 074B3168
-Unused 0001DD64 - E83B37F3
-Unused 0001E19C - D2E9FFC5
-Unused 0001E74C - 8983A436
-Unused 0001EDD4 - 771AE320
-Unused 0001EEFC - B973E0DD
-Unused 0001F184 - BEF91F2F
-Unused 0001F914 - 7D9FE7BA
-Unused 00020354 - ECCE6E92
-Unused 0002172C - AA16340B
-Unused 00021DFC - CDAE8C28
-Unused 00022FCC - DCA7CD59
-Unused 00023434 - 5E9ACDEC
-Unused 0002385C - CC807B7E
-Unused 00023C74 - 534013B9
-Unused 00023D54 - AED137AB
-Unused 0002417C - 0E9B3849
-Unused 000263D0 - CE416BDA
-Unused 000276B4 - 55ABFA03
-Unused 00026FCC - D13B833D
-
-
-0001F444 - 5C09B4C1 Korok - Room of Awakening 0343 -1756 2282
-
+=== Koroks ===
 C53B6047, Carried 1/100 (x2)
 5B313433, Carried 2/100 (x2)
 21B5E04C, Carried 3/100 (x2)
@@ -480,6 +99,7 @@ DEEA959F, Carried 96/100 (x2)
 1BF36240, Carried 98/100 (x2)
 FBA408C6, Carried 99/100 (x2)
 77FD5FD2, Carried 100/100 (x2)
+
 66FAE1AA, Discovered 1/800
 096C2AA5, Discovered 2/800
 9243B590, Discovered 3/800
@@ -1280,6 +900,382 @@ E2AF9C72, Discovered 796/800
 AF8751CF, Discovered 798/800
 F9C8425A, Discovered 799/800
 8AE183AF, Discovered 800/800
+
+Unused 00000F04 - 3DB6D2E8
+Unused 00001C4C - 41740174
+Unused 0000231C - 1E9AD8F5
+Unused 000026BC - 033D538B
+Unused 00002B9C - 82ABF871
+Unused 00002DAC - 2E5492D2
+Unused 00003424 - 60A24C4A
+Unused 00003A4C - C461DBDA
+Unused 000044AC - F76F699F
+Unused 00004CEC - 2E4E14A9
+Unused 000057D4 - B220EDFD
+Unused 00005D54 - D14B49B7
+Unused 000061C4 - C0F3AE77
+Unused 00006924 - A67C7BD9
+Unused 00007334 - 39FDAD2B
+Unused 0000747C - 03D61597
+Unused 000074B4 - B2AD3D63
+Unused 00007E7C - 7A97BD3F
+Unused 000084FC - 7945C478
+Unused 0000893C - 94963F6A
+Unused 00008CAC - B2FCDD1C
+Unused 00009D74 - 255E9E0B
+Unused 0000A0C4 - 782803FC
+Unused 0000BE74 - 2A4A9087
+Unused 0000CA2C - 5C0C0397
+Unused 0000E7E4 - C7364679
+Unused 0000E95C - 787B9B7B
+Unused 0000EAAC - 84BC0302
+Unused 0000EC94 - 2C06F0CF
+Unused 0000EDA4 - 7C0B1B2C
+Unused 0000F594 - 867664C9
+Unused 0000FB3C - 4485CDB4
+Unused 00010FE4 - D97D25CE
+Unused 0001137C - 0263A545
+Unused 00011594 - 0071D101
+Unused 000121D4 - 61D3E577
+Unused 000122E4 - 73D39C67
+Unused 0001244C - 3405C87F
+Unused 00012834 - 121EAFEF
+Unused 00012F0C - 578A8EF4
+Unused 00013814 - 980FBD20
+Unused 0001398C - AC104ABD
+Unused 00014C7C - 32CAAF1F
+Unused 00015B54 - BC275818
+Unused 00015BCC - B2AEC813
+Unused 00015E2C - E087FDE0
+Unused 0001640C - 4D124876
+Unused 00016564 - D7CFE9E5
+Unused 0001691C - 46E6AAF5
+Unused 00016AA4 - 75EAB4B8
+Unused 0001875C - DC28665B
+Unused 000188A4 - C18C0172
+Unused 00018A7C - 230F12AC
+Unused 00019E3C - 729D2922
+Unused 0001A594 - 45196F2E
+Unused 0001AACC - 5334D66E
+Unused 0001AC24 - C97699E0
+Unused 0001ACCC - 0DE076F7
+Unused 0001B064 - 5E12F548
+Unused 0001B1FC - A5A77650
+Unused 0001B27C - 021434CB
+Unused 0001B49C - 2A8F52A6
+Unused 0001CA9C - 314C7734
+Unused 0001DB64 - 074B3168
+Unused 0001DD64 - E83B37F3
+Unused 0001E19C - D2E9FFC5
+Unused 0001E74C - 8983A436
+Unused 0001EDD4 - 771AE320
+Unused 0001EEFC - B973E0DD
+Unused 0001F184 - BEF91F2F
+Unused 0001F914 - 7D9FE7BA
+Unused 00020354 - ECCE6E92
+Unused 0002172C - AA16340B
+Unused 00021DFC - CDAE8C28
+Unused 00022FCC - DCA7CD59
+Unused 00023434 - 5E9ACDEC
+Unused 0002385C - CC807B7E
+Unused 00023C74 - 534013B9
+Unused 00023D54 - AED137AB
+Unused 0002417C - 0E9B3849
+Unused 000263D0 - CE416BDA
+Unused 000276B4 - 55ABFA03
+Unused 00026FCC - D13B833D
+
+
+
+=== Paraglider Fabric ===
+0001388C - 7ff848d1 - Default Fabric
+0000D59C - b65bc9d7 - Goron Fabric
+000259D4 - 41929f49 - Zora Fabric
+0000C65C - 084da01f - Gerudo Fabric
+00026A74 - 31a2d1cc - Royal Emblem Fabric
+00016924 - 865f713d - Zonai Fabric
+0001603C - 30669b55 - Sheikah Fabric
+00004A84 - 022aef11 - Yiga Fabric
+00000EA4 - 112734b9 - Monster-Control-Crew Fabric
+0001E49C - dbc821f2 - Zonai Survey Team Fabric
+00017384 - 1ecc8c93 - God Horse Fabric
+0001FD3C - 405203b9 - Lurelin Fabric
+0001D934 - 7c38e018 - Lucky Clover Gazette Fabric
+0001F814 - 0636a9e7 - Hudson Construction Fabric
+0000E564 - 09865592 - Koltin Fabric
+0001B144 - 57129d72 - Korok Fabric
+00019EDC - f4035866 - Grizzlemaw-Bear Fabric
+00021B5C - c80d0bf1 - Rotver Fabric
+00024FB4 - 96427113 - Cece Fabric
+0000A2EC - 8ef713e8 - Aerocuda Fabric
+00005394 - 92754bbd - Eldin-Ostrich Fabric
+00024EF4 - 94d2472d - Cucco Fabric
+0001F174 - e6cacf83 - Horse Fabric
+00020674 - 85a4e8e3 - Chuchu Fabric
+0001017C - ca1847dd - Lynel Fabric
+00005FB4 - 8c007dbc - Griok Fabric
+00027D4C - a2aec992 - Stalnox Fabric
+00003E0C - 7c552e01 - Tunic of Memories Fabric
+00026A94 - ca76a631 - Hylian-Hood Fabric
+000020CC - d9c206b1 - Hyrule-Princess Fabric
+00015DEC - 6443f768 - Goron-Champion Fabric
+0001CA1C - 397217b2 - Rito-Champion Fabric
+00013C74 - 6fb24dcc - Zora-Champion Fabric
+0001CE6C - 38267d74 - Gerudo-Champion Fabric
+00005004 - ca2baf8b - Ancient-Sheikah Fabric
+0001CC44 - 500ce8e9 - Bokoblin Fabric
+000224BC - 861db450 - Demon King Fabric
+00018A1C - 8dbea34c - King of Red Lions Fabric
+00004A1C - d552e642 - Sheik's Fabric
+0001C79C - 6199467d - Mirror of Twilight Fabric
+00025BEC - 6625f898 - Princess of Twilight Fabric
+000089DC - 63452b97 - Lon Lon Ranch Fabric
+0002781C - 53e2da50 - Majora’s Mask Fabric
+0001C95C - ee3f78e3 - Bygone-Royal Fabric
+00016A64 - f2d50ecf - Sword-Spirit Fabric
+00025DE4 - a4bf8025 - Pixel Fabric
+0001C384 - 0f1e166d - Egg Fabric
+0001F5FC - c9ab8463 - Goddess Fabric
+00027F54 - 21170251 - Champion's Leathers Fabric
+0000129C - eaae73a3 - Princess Zelda Fabric
+00020BA4 - a5ecfeec - Gerudo-King Fabric
+0001CE54 - 93e7260f - Nostalgic Fabric
+00010ACC - 6688319b - Addison's Fabric
+
+0003716C - 01d063db - Current design
+
+
+=== Autobuild Schematics ===
+0000114C - ee3db7d1 - Autobuild Schematics
+00002864 - 2abb2df0 - Autobuild Schematics
+00003CC4 - a07798a6 - Autobuild Schematics
+00003D74 - 6c8fca57 - Autobuild Schematics
+00004C5C - 0cbea150 - Autobuild Schematics
+000055FC - 499afa5b - Autobuild Schematics
+000059F4 - 3f9f61fd - Autobuild Schematics
+000072EC - 7708c653 - Autobuild Schematics
+000076D4 - 29bcade1 - Autobuild Schematics
+0000881C - 260ad4d3 - Autobuild Schematics
+00008E74 - 8476f277 - Autobuild Schematics
+00008F5C - 0520dea7 - Autobuild Schematics
+00009714 - 542b78f1 - Autobuild Schematics
+0000AE94 - d3f712cc - Autobuild Schematics
+0000CDF4 - 8fe4140a - Autobuild Schematics
+0000D28C - 97c52512 - Autobuild Schematics
+0000DCEC - d7ac3fc8 - Autobuild Schematics
+0000DFD4 - a7bccf88 - Autobuild Schematics
+000100C4 - be350fdb - Autobuild Schematics
+00011194 - 4ce68be6 - Autobuild Schematics
+00011B8C - 047dd1a3 - Autobuild Schematics
+00014634 - 8ebfc267 - Autobuild Schematics
+00014A94 - af8870c6 - Autobuild Schematics
+0001557C - 5109695f - Autobuild Schematics
+000168E4 - aaacf14d - Autobuild Schematics
+000170B4 - 6206da4f - Autobuild Schematics
+0001797C - abc30ab3 - Autobuild Schematics
+00017F6C - eee1492c - Autobuild Schematics
+000183D4 - 9f4ba799 - Autobuild Schematics
+000186C4 - a8707e8a - Autobuild Schematics
+0001B52C - 41b07b33 - Autobuild Schematics
+0001BD14 - b3752c42 - Autobuild Schematics
+0001D1D4 - 3385b6c6 - Autobuild Schematics
+0001D754 - 127a75c9 - Autobuild Schematics
+0001DA54 - 345e7150 - Autobuild Schematics
+0001E184 - b625e1fc - Autobuild Schematics
+0001E54C - 5fadc4e3 - Autobuild Schematics
+0001FEC4 - 97e22bf9 - Autobuild Schematics
+00020634 - 7f86e965 - Autobuild Schematics
+000219CC - 11f75220 - Autobuild Schematics
+00025334 - fba73b41 - Autobuild Schematics
+0002667C - a7ce2e78 - Autobuild Schematics
+000267A4 - 45f95172 - Autobuild Schematics
+000268F4 - 14fd96aa - Autobuild Schematics
+00026E8C - 0cddddbf - Autobuild Schematics
+000274EC - 732c5985 - Autobuild Schematics
+
+
+=== Event Flags ===
+0000942C - b0e23924 - Tablet 1/2 (-) Button
+0001176C - 82b7efeb - Tablet 2/2 Album
+0001CE14 - 8816dc32 - Ultrahand 1/2 Ultrahand unlocked
+0000BA1C - 5dbcb47b - Ultrahand 2/2 Amiibo unlocked
+00001F2C - a2e3b2aa - Fuse 1/2 Fuse unlocked
+00027F3C - bf30c4e2 - Fuse 2/2 Battery unlocked
+00012434 - fcd13c80 - Ascend unlocked
+0001B44C - 21eedede - Recall unlocked
+0001ABB4 - 4b392ebf - Teleport unlocked
+00013AF4 - 511f940c - Hyrule unlocked
+0000D6EC - 51330f2b - Autobuild ability unlocked
+0002175C - cff9dad5 - Autobuild menu unlocked
+000140EC - b8a1847f - Camera unlocked
+00006E74 - 891f8710 - Hyrule Compendium unlocked
+00008BA4 - d29e6024 - Hero Path unlocked
+
+0002A8D4 - 2cda0c19 - Demon Statue - Containers
+0002BBDC - a77921d7 - Rupees
+00034FA4 - f9212c74 - Stamina
+000357B4 - f6e7eacd - Equipped ability
+
+0000FC7C - 35d3afbe - Bloodmoon
+
+
+=== Recipes ===
+
+
+00023304 - 8bf5379f - Recipe #186
+
+
+
+
+
+
+
+
+
+
+Colored Pins Coords (v1.0.0)
+00053A20 1
+00053A2C 2
+00053A38 3
+00053A44 4
+00053A50 5
+00053A5C 6
+-----------------------------------
+
+Link X 00053324 (v1.0.0 000532EC)
+Link Y 00053328
+Link Z 0005332C
+
+000532E8 - Untamed Horse Pos (v1.0.0 000532B0)
+000532EC - Untamed Horse Pos
+000532F0 - Untamed Horse Pos
+
+00053E40 - Untamed Horse ID
+
+
+0008A128 - Horse ID 1
+0008A168 - Horse ID 2
+
+
+=== Travel Medallion ===
+1 X 0x00053A08
+1 Y 0x00053A0C
+1 Z 0x00053A10
+ 
+2 X 0x00053A14
+2 Y 0x00053A18
+2 Z 0x00053A1C
+ 
+3 X 0x00053A20
+3 Y 0x00053A24
+3 Z 0x00053A28
+
+
+=== Coordinates ===
+Prologue starting pos
+65,3255081176758
+35,2693901062012
+-192,535919189453
+A9 A6 82 42 DB 13 0D 42 32 89 40 C3
+
+Ukouh Shrine (Ultrahand)
+275.1997681
+1565.827026
+911.4987183
+CE D0 89 43 77 BA C3 44 3E 80 63 44
+
+In-isa Shrine (Fuse)
+23.34442329
+1514.295532
+1504.307617
+61 C1 BA 41 75 49 BD 44 D8 09 BC 44
+
+Gutanbac Shrine (Ascend)
+708.8917847
+1690.195312
+1384.600098
+13 39 31 44 40 46 D3 44 34 13 AD 44
+
+Nachoyah Shrine 
+390.3617249
+2404.452637
+1662.573242
+4D 2E C3 43 3E 47 16 45 58 D2 CF 44
+
+Autobuild (Depths)
+-805,746520996094
+-415,189758300781
+1926,31958007813
+C7 6F 49 C4 4A 98 CF C3 3A CA F0 44
+
+Yiga Blademaster Station
+-2476,43408203125
+243,040466308594
+1796,29443359375
+F2 C6 1A C5 5C 0A 73 43 6C 89 E0 44
+
+Yiga Clan Hideout
+-2476,43408203125
+243,040466308594
+1796,29443359375
+F2 C6 1A C5 5C 0A 73 43 6C 89 E0 44
+
+Final Battle 001
+-249.2728882
+-1706.867432
+-808.4770508
+DC 45 79 C3 C2 5B D5 C4 88 1E 4A C4
+
+Final Battle 002
+-250
+-2447
+975
+
++--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
+| Dragon Tear 1 (Wiki -1413 0966 0125) | Dragon Tear 2 (Wiki -2551 1889 0320) | Dragon Tear 3 (Wiki 1828 0738 0090) | Dragon Tear 4 (Wiki 0695 -1309 0054) | Dragon Tear 5 (Wiki -3178 -1700 0420) | Dragon Tear 6 (Wiki -3096 -0077 0212) | Dragon Tear 7 (Wiki 3326 -3566 0006) | Dragon Tear 8 (Wiki -1864 3622 0238) | Dragon Tear 9 (Wiki 4468 -0305 0076) | Dragon Tear 10 (Wiki -0649 -2683 0069) | Dragon Tear 11 (Wiki 0892 2952 0363) | Dragon Tear 12 (Wiki 4535 2144 0002) |
++--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
+| -1412,607421875                      | -2551,31958007813                    | 1828,32702636719                    | 694,6279296875                       | -3178,365234375                       | -3096,33422851562                     | 3325,72778320313                     | -1863,685546875                      | 4467,701171875                       | -649,3267822                           | 892,0291748                          | 4534,680176                          |
+| 229,228912353516                     | 425,230377197266                     | 195,521240234375                    | 159,176330566406                     | 524,933349609375                      | 317,150573730469                      | 110,716239929199                     | 342,735504150391                     | 180,947174072266                     | 174,3910828                            | 468,5645142                          | 106,6209488                          |
+| -966,107482910156                    | -1885,54016113281                    | -734,593566894531                   | 1312,22192382812                     | 1702,68713378906                      | 80,0556945800781                      | 3569,4501953125                      | -3618,78979492188                    | 307,989807128906                     | 2685,972412                            | -2948,690186                         | -2141,090088                         |
+| 70 93 B0 C4 9A 3A 65 43 E1 86 71 C4  | 1D 75 1F C5 7D 9D D4 43 49 B1 EB C4  | 77 8A E4 44 70 85 43 43 FD A5 37 C4 | 30 A8 2D 44 24 2D 1F 43 1A 07 A4 44  | D8 A5 46 C5 BC 3B 03 44 FD D5 D4 44   | E9 85 41 C5 69 4F 9E 43 E6 B8 9A 42   | A5 DB 4F 45 B7 6E DD 42 34 17 5F 45  | F0 F5 E8 C4 25 5E AB 43 A3 2C 62 C5  | 9C 9D 8B 45 7A F2 34 43 B2 FE 99 43  | EA 54 22 C4 1E 64 2E 43 8F DF 27 45    | DE 01 5F 44 42 48 EA 43 0B 4B 38 C5  | 71 B5 8D 45 ED 3D D5 42 71 D1 05 C5  |
++--------------------------------------+--------------------------------------+-------------------------------------+--------------------------------------+---------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------+--------------------------------------+----------------------------------------+--------------------------------------+--------------------------------------+
+
+Ride The Giant Horse
+-692,632873535156
+278,050628662109
+3396,01904296875
+81 28 2D C4 7B 06 8B 43 4E 40 54 45
+
+Mayanas Shrine (Skydive Trial - Glide Mask) Wiki 4613 -0947 1804
+4544,87890625
+1226,62268066406
+845,93798828125
+08 07 8E 45 ED 53 99 44 08 7C 53 44
+
+Taunhiy Shrine (Skydive Trial - Glide Shirt) Wiki -2402 0825 0629
+-2400,92553710938
+720,997680664062
+-824,983703613281
+CF 0E 16 C5 DA 3F 34 44 F5 3E 4E C4
+ 
+Simosiwak Shrine (Skydive Trial - Glide Tights) Wiki 0162 1972 0773
+163,071441650391
+864,604797363281
+-1972,3876953125
+4A 12 23 43 B5 26 58 44 68 8C F6 C4
+
+-----------------------------------
+Device Dispenser RBox_Field_D_02.pack.zs
+Time Bomb, Small Wheel, Light, Rocket
+-1213 -1585 1007
+-----------------------------------
+
+-----------------------------------
+Autobuild v1.1.0	v1.0.0
+Start at 000DB6DC	D7A5C
+Size 6692 / 0x1A24
+Repeat 30 times / 30 slots including 8 favorites
+-----------------------------------
 -----------------------------------
 Locations
 
