@@ -1,4 +1,7 @@
 === Koroks ===
+
+5BA15424, Enable Korok Counter in Loading Screen
+
 C53B6047, Carried 1/100 (x2)
 5B313433, Carried 2/100 (x2)
 21B5E04C, Carried 3/100 (x2)
