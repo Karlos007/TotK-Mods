@@ -1121,6 +1121,7 @@ Unused 00026FCC - D13B833D
 
 0000FC7C - 35d3afbe - Bloodmoon
 
+Ganon defeated ☆ Flag 0001698C v1.0.0  /  00011F18 v1.0.1+ Hash B4962FEE
 
 === Recipes ===
 
